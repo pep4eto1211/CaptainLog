@@ -1,9 +1,0 @@
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\bin\Debug\CaptainLog.Core.dll
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\bin\Debug\CaptainLog.Core.pdb
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\obj\Debug\CaptainLog.Core.csprojAssemblyReference.cache
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\obj\Debug\CaptainLog.Core.dll
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\obj\Debug\CaptainLog.Core.pdb
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\bin\Debug\Files\config.json
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\bin\Debug\Newtonsoft.Json.dll
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\bin\Debug\Newtonsoft.Json.xml
-C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CaptainLog.Core\obj\Debug\CaptainLog.Core.csproj.CopyComplete
