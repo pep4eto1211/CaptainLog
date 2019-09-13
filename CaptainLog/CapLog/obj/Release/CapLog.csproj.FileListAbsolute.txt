@@ -1,0 +1,12 @@
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\Files\config.json
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\CapLog.exe.config
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\CapLog.exe
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\CapLog.pdb
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\CaptainLog.Core.dll
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\Newtonsoft.Json.dll
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\CaptainLog.Core.pdb
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\bin\Release\Newtonsoft.Json.xml
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\obj\Release\CapLog.csprojAssemblyReference.cache
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\obj\Release\CapLog.csproj.CopyComplete
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\obj\Release\CapLog.exe
+C:\Users\petar.georgiev\source\repos\CaptainLog\CaptainLog\CapLog\obj\Release\CapLog.pdb

@@ -1,0 +1,5 @@
+Date: 07-Sep-19 | 14:12 :: Note: This is a test templated note
+Date: 07-Sep-19 | 15:06 :: Note: Per- line editing has been added
+Date: 07-Sep-19 | 18:58 :: Note: Template removal has been added
+Date: 08-Sep-19 | 0:05 :: Note: Started work on the UI
+Date: 08-Sep-19 | 0:06 :: Note: Testing UI and CLI integration

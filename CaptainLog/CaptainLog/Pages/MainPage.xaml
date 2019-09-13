@@ -1,0 +1,38 @@
+﻿<Page x:Class="CaptainLog.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CaptainLog.Pages"
+      xmlns:models="clr-namespace:CaptainLog.Models"
+      xmlns:controls="clr-namespace:CaptainLog.UserControls"
+      mc:Ignorable="d" 
+      d:DesignHeight="671" d:DesignWidth="871"
+      Title="MainPage" Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="290"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <SolidColorBrush Color="{DynamicResource BackgroundColor}"/>
+        </Grid.Background>
+        <Frame x:Name="MainPageFrame" Content="" Grid.Column="1" Source="/CaptainLog;component/Pages/NoneSelectedPage.xaml" NavigationUIVisibility="Hidden"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Logs:" VerticalAlignment="Center" Margin="10,0,0,0" FontSize="20">
+                <TextBlock.Foreground>
+                    <SolidColorBrush Color="{DynamicResource ForegroundColor}"/>
+                </TextBlock.Foreground>
+            </TextBlock>
+            <ScrollViewer Grid.Row="1" HorizontalContentAlignment="Stretch" VerticalScrollBarVisibility="Auto">
+                <StackPanel x:Name="logsStackPanel"/>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+</Page>

@@ -1,0 +1,1 @@
+(*) Add templating to line edit
